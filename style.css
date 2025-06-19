@@ -1,0 +1,11 @@
+h1{
+    color: blueviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ul{
+   
+    list-style-image: url('pointer-icon/pointer-icon.png')
+}
+ol{
+    list-style-type:upper-roman;
+}
